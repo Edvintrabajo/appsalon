@@ -2,4 +2,3 @@ node_modules
 vendor
 .env
 gulpfile.js
-package.json
